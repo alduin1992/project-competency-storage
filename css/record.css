@@ -1,0 +1,14 @@
+#wrap
+	{
+		font-family:"Segoe UI","Segoe UI Web Regular","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,"sans-serif";
+		margin-left:auto;
+		margin-right:auto;
+		border-style:solid;
+		width:500px;
+		height:500px;
+		
+	}
+td
+	{
+		padding:20px;
+	}
